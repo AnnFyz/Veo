@@ -11,7 +11,7 @@ Veo is a short, narrative-driven RPG developed in Unity. The game focuses on cho
 
 * Single-location, story-focused design
 
-##Tech Stack
+## Tech Stack
 
 * Unity
 
