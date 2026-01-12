@@ -5,21 +5,21 @@ Veo is a short, narrative-driven RPG developed in Unity. The game focuses on cho
 
 * Branching dialogue system built with Ink
 
-Isometric exploration and interaction
+* Isometric exploration and interaction
 
-Narrative consequence tracking
+* Narrative consequence tracking
 
-Single-location, story-focused design
+* Single-location, story-focused design
 
 ##Tech Stack
 
-Unity
+* Unity
 
-C#
+* C#
 
-Ink / Inkle
+* Ink / Inkle
 
-Team
+## Team
 
 Developed by a two-person team.
-Programming, narrative system implementation, and asset integration by [Your Name].
+I was responsible for programming, narrative system implementation, and asset integration
