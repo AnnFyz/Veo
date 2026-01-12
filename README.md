@@ -1,4 +1,4 @@
-# Black-Wedding
+# Veo
 Veo is a short, narrative-driven RPG developed in Unity. The game focuses on choice-based dialogue, consequence-driven storytelling, and atmospheric exploration within a single environment.
 
 ## Features
